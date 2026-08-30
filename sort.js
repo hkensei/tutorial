@@ -7,6 +7,6 @@ var sortNumber = function (number) {
    });
 };
 
-var number = [10,20,30];
+var number = [100,200,300];
 sortNumber(number);
 console.log(number);
